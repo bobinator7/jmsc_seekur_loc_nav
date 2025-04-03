@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DocSettings>
+    <Sections>
+      <Section>
+         <Name>VEROSIMFramework</Name>
+         <IncludeFiles>
+           <Path>.</Path>
+         </IncludeFiles>   
+         <IncludeImages>
+            <Path>.</Path>
+         </IncludeImages>
+      </Section>  
+   </Sections>
+</DocSettings>
