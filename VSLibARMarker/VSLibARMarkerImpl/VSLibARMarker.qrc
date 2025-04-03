@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/VSLibARMarker">
+        <file>icons/ardetect.png</file>
+		<file>icons/landmark.png</file>
+		<file>icons/Input.png</file>
+		<file>icons/Output.png</file>
+    </qresource>
+</RCC>
